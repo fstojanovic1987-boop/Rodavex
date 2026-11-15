@@ -1,0 +1,19 @@
+{
+  "name": "Rodavex — Vehicle & Machinery Management",
+  "short_name": "Rodavex",
+  "description": "Evidencija vozila, radnih mašina, servisa i troškova.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08151c",
+  "theme_color": "#081820",
+  "lang": "sr",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
